@@ -1,4 +1,8 @@
 package com.example.budgetcalculator.model
 
-class Budget {
-}
+data class Budget(
+    val food: Double,
+    val transport: Double,
+    val entertainment: Double,
+    val savings: Double
+)

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Budget Calculator</string>
+    <string name="btn_calculate">Hitung Anggaran</string>
+    <string name="budget_result">
+    🍔 Makan\t\t\t\t\t\t\t\t: %s\n
+    🚕 Transportasi\t: %s\n
+    🎮 Hiburan\t\t\t\t\t\t: %s\n
+    💰 Tabungan\t\t\t\t: %s
+    </string>
+    <string name="budget_title">Anggaran Harian</string>
 </resources>
